@@ -3,7 +3,7 @@
      "version":"1.0.0",
      "description":"canvas",
      "manifest_version":3,
-     "author":"sampath",
+     "author":"karthikeya",
      "action":{
              "default_popup":"index.html",
              "default_title":"canvas extension"
